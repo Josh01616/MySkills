@@ -11,6 +11,7 @@ Node.js & Express.js (API design, server-side logic)
 
 PHP & Laravel (robust backend frameworks)
 
+
 ⚙️ Backend & APIs
 
 RESTful API design with Express and Laravel
@@ -21,6 +22,7 @@ Authentication & security best practices
 
 Debugging & performance optimization
 
+
 🗄️ Databases & Cloud
 
 Supabase (Postgres + real-time features)
@@ -29,6 +31,7 @@ Firebase (auth, Firestore, real-time DB)
 
 MySQL, PostgreSQL basics
 
+
 🛠️ DevOps & Tools
 
 Docker (containerization & deployment)
@@ -36,6 +39,7 @@ Docker (containerization & deployment)
 Git & GitHub (version control, collaboration)
 
 CI/CD integration (GitHub Actions, etc.)
+
 
 🔍 What I Do Best
 
@@ -48,6 +52,7 @@ Debugging complex issues until solved 🔧
 Database structuring & optimization
 
 Building developer-friendly tools with Swagger & Docker
+
 
 🌱 Currently Learning
 
